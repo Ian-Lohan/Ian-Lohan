@@ -1,6 +1,6 @@
 ### Hello! I'm Ian Lohan! 👋
 
-Hello, I'm Ian Lohan. I'am a CS student in Brasil and an aspiring Game Dev.
+Hello, I'm Ian Lohan. I'am a CS student in Brazil and an aspiring Game Dev.
 
 ##
 
