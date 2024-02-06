@@ -1,28 +1,33 @@
-### Hello! I'm Ian Lohan! 👋
+# 👋 Hello! I'm Ian Lohan! 
+I'm a brazilian programmer who loves to learn about new languages and technologies. I'm also an artist on my free time!
 
-Hello, I'm Ian Lohan. I'am a CS student in Brazil and an aspiring Developer.
+## 🌱 About Me
 
-##
+I've always been interested in programming, as a child I'd search about and study different programming languages and how different programs were made. 
+I love trying out and learning about new languages and technologies, sometimes on my free time I'll open up VS Code and start coding the first idea that comes to my mind.
 
-<div align="center">
-  <a href="https://github.com/Ian-Lohan">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ian-Lohan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="31.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Lohan&layout=compact&langs_count=7&theme=dark"/>
-</div>
+📫 **Contact Me!**
+- Email: ianlohan.acc@example.com
+- Twitter: [Ian Lohan](https://twitter.com/ianlohanav)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ian-lohan-9140ab24b/)
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
-  
+## 🔧 My Skills
+
+![HTTP](https://img.shields.io/badge/-HTTP-orange)
+![CSS](https://img.shields.io/badge/-CSS-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![React](https://img.shields.io/badge/-React-blue)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![SQL](https://img.shields.io/badge/-SQL-blue)
+![C](https://img.shields.io/badge/-C-gray)
+![Java](https://img.shields.io/badge/-Java-orange)
+![Python](https://img.shields.io/badge/-Python-blue)
+![Git](https://img.shields.io/badge/-Git-black)
+
   ##
 <div align="center">
   <a href="https://www.youtube.com/channel/UCpFDcwhSdVbE8ndDWQjPoKQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/ianlohanav" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ianlohan.acc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ianlohan.acc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ian-lohan-9140ab24b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
