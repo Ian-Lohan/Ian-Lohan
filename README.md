@@ -7,9 +7,9 @@ I've always been interested in programming, as a child I'd search about and stud
 I love trying out and learning about new languages and technologies, sometimes on my free time I'll open up VS Code and start coding the first idea that comes to my mind.
 
 📫 **Contact Me!**
-- Email: ianlohan.acc@example.com
+- Email: ianlohan.acc@gmail.com
 - Twitter: [Ian Lohan](https://twitter.com/ianlohanav)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ian-lohan-9140ab24b/)
+- LinkedIn: [Ian Lohan](https://www.linkedin.com/in/ian-lohan-9140ab24b/)
 
 ## 🔧 My Skills
 
