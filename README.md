@@ -13,17 +13,29 @@ I love trying out and learning about new languages and technologies, sometimes o
 
 ## 🔧 My Skills
 
-![HTTP](https://img.shields.io/badge/-HTTP-orange)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![React](https://img.shields.io/badge/-React-blue)
-![Node](https://img.shields.io/badge/-Node-green)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-![SQL](https://img.shields.io/badge/-SQL-blue)
-![C](https://img.shields.io/badge/-C-gray)
-![Java](https://img.shields.io/badge/-Java-orange)
-![Python](https://img.shields.io/badge/-Python-blue)
-![Git](https://img.shields.io/badge/-Git-black)
+<b>Web Development<b>
+<br>
+![HTTP](https://img.shields.io/badge/Web-HTTP-orange)
+![CSS](https://img.shields.io/badge/Web-CSS-blue)
+![JavaScript](https://img.shields.io/badge/Web-JavaScript-yellow)
+![React](https://img.shields.io/badge/Web-React-blue)
+![NodeJS](https://img.shields.io/badge/Web-NodeJS-green)
+![TypeScript](https://img.shields.io/badge/Web-TypeScript-blue)
+![Sass](https://img.shields.io/badge/Web-Sass-e87bcb)
+
+<b>Databases</b>
+<br>
+![SQL](https://img.shields.io/badge/Database-SQL-blue)
+
+<b>Languages</b>
+<br>
+![C](https://img.shields.io/badge/Language-C-white)
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![Python](https://img.shields.io/badge/Language-Python-blue)
+
+<b>Tools</b>
+<br>
+![Git](https://img.shields.io/badge/Tool-Git-black)
 
   ##
 <div align="center">
