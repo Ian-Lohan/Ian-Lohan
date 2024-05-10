@@ -19,13 +19,15 @@ I love trying out and learning about new languages and technologies, sometimes o
 ![CSS](https://img.shields.io/badge/Web-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/Web-JavaScript-yellow)
 ![React](https://img.shields.io/badge/Web-React-cyan)
+![Angular](https://img.shields.io/badge/Web-Angular-red)
 ![NodeJS](https://img.shields.io/badge/Web-NodeJS-green)
 ![TypeScript](https://img.shields.io/badge/Web-TypeScript-blue)
 ![Sass](https://img.shields.io/badge/Web-Sass-e87bcb)
 
 <b>Databases</b>
 <br>
-![SQL](https://img.shields.io/badge/Database-SQL-blue)
+![MySQL](https://img.shields.io/badge/Database-SQL-blue)
+![MariaDB](https://img.shields.io/badge/Database-MariaDB-brown)
 
 <b>Languages</b>
 <br>
