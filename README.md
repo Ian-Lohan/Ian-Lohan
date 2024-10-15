@@ -20,6 +20,7 @@ I love trying out and learning about new languages and technologies, sometimes o
 ![JavaScript](https://img.shields.io/badge/Web-JavaScript-yellow)
 ![React](https://img.shields.io/badge/Web-React-cyan)
 ![Angular](https://img.shields.io/badge/Web-Angular-red)
+![Flutter](https://img.shields.io/badge/Web-Flutter-cyan)
 ![NodeJS](https://img.shields.io/badge/Web-NodeJS-green)
 ![TypeScript](https://img.shields.io/badge/Web-TypeScript-blue)
 ![Sass](https://img.shields.io/badge/Web-Sass-e87bcb)
