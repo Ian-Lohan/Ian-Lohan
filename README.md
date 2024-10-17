@@ -1,10 +1,9 @@
 # 👋 Hello! I'm Ian Lohan! 
-I'm a brazilian programmer who loves to learn about new languages and technologies. I'm also an artist on my free time!
+I'm a brazilian programmer who loves to learn about new languages and technologies. I'm also a practicing artist and aspiring game developer with an immense love for RPGs.
 
 ## 🌱 About Me
 
-I've always been interested in programming, as a child I'd search about and study different programming languages and how different programs were made. 
-I love trying out and learning about new languages and technologies, sometimes on my free time I'll open up VS Code and start coding the first idea that comes to my mind.
+I've always been interested in programming and the IT field. As a child I'd search about all kinds of terms and topics I'd hear related to the field to satisfy my curiosity. Ever since I first entered my university course I've been non-stop studying about programming and all the languages and tools in the market. My dream is to one day open my own game development studio.
 
 📫 **Contact Me!**
 - Email: ianlohan.acc@gmail.com
@@ -18,27 +17,33 @@ I love trying out and learning about new languages and technologies, sometimes o
 ![HTTP](https://img.shields.io/badge/Web-HTTP-orange)
 ![CSS](https://img.shields.io/badge/Web-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/Web-JavaScript-yellow)
-![React](https://img.shields.io/badge/Web-React-cyan)
-![Angular](https://img.shields.io/badge/Web-Angular-red)
-![Flutter](https://img.shields.io/badge/Web-Flutter-cyan)
-![NodeJS](https://img.shields.io/badge/Web-NodeJS-green)
 ![TypeScript](https://img.shields.io/badge/Web-TypeScript-blue)
 ![Sass](https://img.shields.io/badge/Web-Sass-e87bcb)
+
+<b>Frameworks<b>
+<br>
+![React](https://img.shields.io/badge/Framework-React-cyan)
+![Angular](https://img.shields.io/badge/Framework-Angular-red)
+![Flutter](https://img.shields.io/badge/Framework-Flutter-cyan)
 
 <b>Databases</b>
 <br>
 ![MySQL](https://img.shields.io/badge/Database-SQL-blue)
 ![MariaDB](https://img.shields.io/badge/Database-MariaDB-brown)
+![MongoD](https://img.shields.io/badge/Database-MonogoDB-green)
 
 <b>Languages</b>
 <br>
 ![C](https://img.shields.io/badge/Language-C-white)
+![C++](https://img.shields.io/badge/Language-C++-gray)
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 
 <b>Tools</b>
 <br>
 ![Git](https://img.shields.io/badge/Tool-Git-black)
+![NodeJS](https://img.shields.io/badge/Tool-NodeJS-green)
+![Yarn](https://img.shields.io/badge/Tool-Yarn-blue)
 
   ##
 <div align="center">
