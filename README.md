@@ -30,7 +30,7 @@ I've always been interested in programming and the IT field. As a child I'd sear
 <br>
 ![MySQL](https://img.shields.io/badge/Database-SQL-blue)
 ![MariaDB](https://img.shields.io/badge/Database-MariaDB-brown)
-![MongoD](https://img.shields.io/badge/Database-MonogoDB-green)
+![MongoD](https://img.shields.io/badge/Database-MongoDB-green)
 
 <b>Languages</b>
 <br>
