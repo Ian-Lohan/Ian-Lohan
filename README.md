@@ -25,17 +25,20 @@ I've always been interested in programming and the IT field. As a child I'd sear
 ![React](https://img.shields.io/badge/Framework-React-cyan)
 ![Angular](https://img.shields.io/badge/Framework-Angular-red)
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-cyan)
+![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-purple)
 
 <b>Databases</b>
 <br>
 ![MySQL](https://img.shields.io/badge/Database-SQL-blue)
 ![MariaDB](https://img.shields.io/badge/Database-MariaDB-brown)
 ![MongoD](https://img.shields.io/badge/Database-MongoDB-green)
+![PostgreSQL](http://img.shields.io/badge/Database-PostgreSQL-cyan)
 
 <b>Languages</b>
 <br>
 ![C](https://img.shields.io/badge/Language-C-white)
 ![C++](https://img.shields.io/badge/Language-C++-gray)
+![C#](https://img.shields.io/badge/Language-C#-blue)
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 
@@ -44,6 +47,7 @@ I've always been interested in programming and the IT field. As a child I'd sear
 ![Git](https://img.shields.io/badge/Tool-Git-black)
 ![NodeJS](https://img.shields.io/badge/Tool-NodeJS-green)
 ![Yarn](https://img.shields.io/badge/Tool-Yarn-blue)
+![Docker](https://img.shields.io/badge/Tool-Docker-cyan)
 
   ##
 <div align="center">
