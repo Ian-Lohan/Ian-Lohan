@@ -1,9 +1,9 @@
 # 👋 Hello! I'm Ian Lohan! 
-I'm a brazilian programmer who loves to learn about new languages and technologies. I'm also a practicing artist and aspiring game developer with an immense love for RPGs.
+I'm a brazilian programmer with a passion to learning new languages and technologies. I'm also a practicing artist and aspiring game developer with an immense love for RPGs.
 
 ## 🌱 About Me
 
-I've always been interested in programming and the IT field. As a child I'd search about all kinds of terms and topics I'd hear related to the field to satisfy my curiosity. Ever since I first entered my university course I've been non-stop studying about programming and all the languages and tools in the market. My dream is to one day open my own game development studio.
+I've been passionate about computers since my childhood, ever since my father first introduced me to his work office. Growing up I've been looking into all kinds of technologies and languages, getting new experiences and expanding my horizons.
 
 📫 **Contact Me!**
 - Email: ianlohan.acc@gmail.com
