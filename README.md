@@ -38,7 +38,7 @@ I've been passionate about computers since my childhood, ever since my father fi
 <br>
 ![C](https://img.shields.io/badge/Language-C-white)
 ![C++](https://img.shields.io/badge/Language-C++-gray)
-![C#](https://img.shields.io/badge/Language-C#-blue)
+![C#](https://img.shields.io/badge/Language-CSharp-blue)
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 
